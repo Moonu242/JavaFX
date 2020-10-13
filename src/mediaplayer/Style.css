@@ -1,0 +1,13 @@
+
+/* 
+    Created on : 15-Jun-2020, 20:27:18
+    Author     : Hrathod
+*/
+
+#openFile{
+    -fx-background-image: url("../images/file.png");
+    -fx-background-size: 20 20;
+    -fx-background-position: center;
+    -fx-background-color: #bfc2c7;
+    
+}
